@@ -32,11 +32,6 @@ Music and event-focused web experience.
 
 [View Live Website](https://kdmh-cadenza-lgxt.vercel.app/)
 
-#### DGConcept Portfolio
-Personal/creative portfolio website showcasing design and digital work.
-
-[View Live Website](https://dgconceptportfolio.netlify.app/)
-
 #### DigiSage Hub
 Digital learning and cohort registration platform.
 
@@ -46,6 +41,11 @@ Digital learning and cohort registration platform.
 Responsive food ordering web application.
 
 [View Live Website](https://fooddelivery-virid.vercel.app)
+
+#### DGConcept Portfolio
+Personal/creative portfolio website showcasing design and digital work.
+
+[View Live Website](https://dgconceptportfolio.netlify.app/)
 
 #### Forex Platform
 Financial web interface and product experience.
